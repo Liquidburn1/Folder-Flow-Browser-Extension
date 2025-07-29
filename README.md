@@ -60,11 +60,10 @@ If you're interested in a private code review, licensing, partnership, or demo, 
 
 ---
 
-## 📬 Contact
+## 📬 Contact Me Via Feedback form
 
-**Hassan Ali Qadir**  
-🌐 [folderflow.xyz](https://folderflow.xyz)  
-✉️ [hassan.ali.qadir@gmail.com](mailto:hassan.ali.qadir@gmail.com)  
+🌐 [folderflow Feedback](https://folderflow.xyz/feedback)  
+
 
 
 ---
