@@ -26,7 +26,7 @@ FolderFlow solves that — seamlessly enhancing YouTube’s interface and giving
 
 ## 📸 Screenshots & Video
 
->[![Watch the demo](https://img.youtube.com/vi/13TzCggn8a8/hqdefault.jpg)]([https://www.youtube.com/watch?v=13TzCggn8a8](https://youtu.be/13TzCggn8a8?si=tCaz94SBAS1xwMFP))
+[![Watch the demo](https://img.youtube.com/vi/13TzCggn8a8/hqdefault.jpg)](https://www.youtube.com/watch?v=13TzCggn8a8)
 
 > <img width="640" height="400" alt="Screenshot 2025-07-09 at 12 52 47 PM" src="https://github.com/user-attachments/assets/8e05fc44-0f0b-4596-ab1e-b7a43aac60c3" />
 
